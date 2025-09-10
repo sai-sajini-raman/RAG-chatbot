@@ -85,7 +85,7 @@ gh_client = ChatCompletionsClient(
 
 
 from azure.ai.inference.models import UserMessage, SystemMessage
-from azure.ai.inference.models import ChatMessage
+# from azure.ai.inference.models import ChatMessage
 
 
 def call_llm(system_prompt: str, user_prompt: str):
