@@ -1,0 +1,15 @@
+streamlit>=1.20
+pandas>=1.5
+sentence-transformers==2.2.2
+chromadb==0.4.24
+llama-index==0.10.37
+llama-index==0.10.60
+llama-index-embeddings-huggingface==0.1.4
+openai>=0.27.0
+openai==1.43.0
+requests>=2.28
+sqlalchemy>=1.4
+python-dotenv>=1.0
+openpyxl
+azure-ai-inference
+azure-core
